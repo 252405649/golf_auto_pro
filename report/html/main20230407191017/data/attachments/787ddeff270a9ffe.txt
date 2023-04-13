@@ -1,0 +1,3 @@
+INFO     mylog:test_link.py:41 用例返回：{'msg': '操作成功', 'code': 200, 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6IjE5YzQ3MzBjLWIyZGQtNDkzMi05ZTQxLTkzZTlhY2RkN2E2OCJ9.fbcmXz7kkNl6UHrQQPgZd4_XDDkPmpmsr3jFE-X2P6jnHDkT9K2vWAGj9hgmE9SfYZb9EYrwFUEPLFzRucNS7Q'}
+INFO     mylog:test_link.py:49 用例--【用户登录】--传递了参数【{'token': 'eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6IjE5YzQ3MzBjLWIyZGQtNDkzMi05ZTQxLTkzZTlhY2RkN2E2OCJ9.fbcmXz7kkNl6UHrQQPgZd4_XDDkPmpmsr3jFE-X2P6jnHDkT9K2vWAGj9hgmE9SfYZb9EYrwFUEPLFzRucNS7Q'}】到下一个接口
+INFO     mylog:test_link.py:52 用例--【用户登录】--执行通过

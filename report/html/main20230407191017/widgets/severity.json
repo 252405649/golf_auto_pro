@@ -1,0 +1,1 @@
+[{"uid":"ed52b1da4c8e4b84","name":"用户登录","time":{"start":1680865819193,"stop":1680865819498,"duration":305},"status":"passed","severity":"normal"},{"uid":"f1fd5207560f114f","name":"查询所有职称","time":{"start":1680865819498,"stop":1680865819685,"duration":187},"status":"passed","severity":"normal"}]

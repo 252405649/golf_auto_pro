@@ -1,0 +1,2 @@
+INFO     mylog:test_link.py:41 用例返回：{'rows': [{'id': 125, 'titleName': '咸鱼'}, {'id': 124, 'titleName': '全职猎人'}, {'id': 123, 'titleName': '球王'}, {'id': 122, 'titleName': '邮寄证书职称'}, {'id': 121, 'titleName': '开发测试'}, {'id': 120, 'titleName': '测试重复'}, {'id': 119, 'titleName': '测试'}, {'id': 118, 'titleName': 'test'}, {'id': 117, 'titleName': 'zwx职称测试'}, {'id': 116, 'titleName': '小周裁判'}], 'total': 26, 'code': 200, 'msg': '查询成功'}
+INFO     mylog:test_link.py:52 用例--【查询所有职称】--执行通过

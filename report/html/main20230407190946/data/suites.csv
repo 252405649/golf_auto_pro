@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 07 19:09:47 CST 2023","Fri Apr 07 19:09:48 CST 2023","281","testcases","单个链路测试","TestLink","","","用户登录","golf_admin_login001 :用户登录"
+"passed","Fri Apr 07 19:09:48 CST 2023","Fri Apr 07 19:09:48 CST 2023","188","testcases","单个链路测试","TestLink","","","查询所有职称","golf_admin_zc001:查询所有职称"

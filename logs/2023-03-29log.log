@@ -1,0 +1,75 @@
+2023-03-29 03:24:45,971 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:24:46,291 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:24:46,291 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:26:35,884 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:26:36,178 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:26:36,178 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:27:45,771 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:27:46,090 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:27:46,090 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:28:20,554 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:28:20,852 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:28:20,852 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:28:41,792 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:28:42,097 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:28:42,097 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:35:10,771 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:35:11,056 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:35:11,056 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:37:28,209 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:37:28,487 - mylog - INFO - 开始读取sheet--【('后台职称链路测试',      用例名称                  用例编号  ...                 参数提取              备注
+0    用户登录  golf_admin_login001   ...  {"token":"$.token"}  提取登录成功返回的token
+1  查询所有职称      golf_admin_zc001  ...                  NaN             NaN
+
+[2 rows x 9 columns])】--读取
+2023-03-29 03:38:03,318 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:38:03,605 - mylog - INFO - 开始读取sheet--【('后台职称链路测试',      用例名称                  用例编号  ...                 参数提取              备注
+0    用户登录  golf_admin_login001   ...  {"token":"$.token"}  提取登录成功返回的token
+1  查询所有职称      golf_admin_zc001  ...                  NaN             NaN
+
+[2 rows x 9 columns])】--读取
+2023-03-29 03:38:23,573 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:38:23,858 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:38:23,872 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:39:10,198 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:39:10,485 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:39:10,514 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:43:12,499 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:44:41,840 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:44:42,119 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:45:21,737 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:45:22,011 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:45:22,021 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:46:25,381 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:46:25,679 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:46:25,681 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:47:25,828 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:47:26,119 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:47:26,127 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:49:32,534 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:49:32,787 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:49:32,804 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:50:59,063 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:50:59,361 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:50:59,361 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:51:57,622 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:51:57,881 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:51:57,881 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:52:14,435 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:52:14,767 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:52:14,767 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:52:39,239 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:52:39,743 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:52:39,743 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:53:43,241 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:53:43,241 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:53:43,241 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:54:38,419 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:54:38,421 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:54:38,421 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 03:56:59,710 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 03:57:00,237 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 03:57:00,238 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取
+2023-03-29 04:02:01,898 - mylog - INFO - 开始读取excel--【D:\work\golfProject002\datas/golf_data.xlsx】--读取
+2023-03-29 04:02:02,516 - mylog - INFO - 开始读取sheet--【后台职称链路测试】--读取
+2023-03-29 04:02:02,517 - mylog - INFO - 开始读取sheet--【后台小程序用户管理链路测试】--读取

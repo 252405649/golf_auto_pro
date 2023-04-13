@@ -1,0 +1,11 @@
+.side-nav__brand {
+  background: url('lishi.ico') no-repeat left center !important;
+  margin-left: 10px;
+}
+.side-nav__brand span{
+  display: none;
+}
+.side-nav__brand:after{
+  content: "高尔夫自动化";
+  margin-left: 20px;
+}
